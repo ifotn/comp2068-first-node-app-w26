@@ -1,0 +1,48 @@
+pizza
+chips
+muffin
+sandwich
+waffles
+cereal
+pasta
+chicken
+pancakes
+rice
+tuna
+granola bar
+bacon
+apple
+ramen
+bagel
+grilled cheese
+samosa
+shwarma
+carrot
+cucumber
+fries
+ice cream
+nuts
+pizza
+chips
+muffin
+sandwich
+waffles
+cereal
+pasta
+chicken
+pancakes
+rice
+tuna
+granola bar
+bacon
+apple
+ramen
+bagel
+grilled cheese
+samosa
+shwarma
+carrot
+cucumber
+fries
+ice cream
+nuts

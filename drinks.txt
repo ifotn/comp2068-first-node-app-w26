@@ -1,0 +1,12 @@
+water
+coffee
+smoothie
+milkshake
+oj
+beer
+milk
+tea
+green tea
+soda
+energy drink
+wine
